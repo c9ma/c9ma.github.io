@@ -1,6 +1,8 @@
 ## CHENGYUAN MA
 
-I am a Ph.D. student in mathematics at the University of Washington.
+---
+
+I am a Ph.D. student in mathematics at the [University of Washington](http://www.washington.edu). I am primarily interested in noncommutative invariant theory, in particular,  
 
 You can use the [editor on GitHub](https://github.com/c9ma/c9ma.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
