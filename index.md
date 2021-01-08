@@ -1,8 +1,10 @@
 ####
 
-## CHENGYUAN MA
+## Chengyuan Ma
 
-#### PH.D. STUDENT, DEPARTMENT OF MATHEMATICS, UNIVERSITY OF WASHINGTON
+#### Ph.D. student, Department of Mathematics, University of Washington
+
+#### c9ma@uw.edu | Padelford C-430
 
 ---
 
