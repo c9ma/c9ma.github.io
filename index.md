@@ -1,5 +1,3 @@
-<br/><font-size = 50%><br/>
-
 ## Chengyuan Ma
 
 ### Ph.D. student, Department of Mathematics, University of Washington
