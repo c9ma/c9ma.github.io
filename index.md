@@ -1,6 +1,6 @@
 ## CHENGYUAN MA
 
-### Ph.D. student, Department of Mathematics, University of Washington
+#### PH.D. STUDENT, DEPARTMENT OF MATHEMATICS, UNIVERSITY OF WASHINGTON
 
 ---
 
