@@ -2,7 +2,7 @@
 
 ---
 
-I am a Ph.D. student in mathematics at the [University of Washington](http://www.washington.edu). I am primarily interested in Artin-Schelter Gorensteinness and Artin-Schelter regularity of Poisson enveloping algebras, special cases to the noncommutative Watanabe theorem and the noncommutative Shephard-Todd-Chevalley theorem of quantum polynomial rings.
+I am a Ph.D. student in mathematics at the [University of Washington](http://www.washington.edu). I am primarily interested in Artin-Schelter Gorensteinness and Artin-Schelter regularity of Poisson enveloping algebras, special cases to the noncommutative Watanabe theorem and the noncommutative Shephard-Todd-Chevalley theorem of quantum polynomial rings. My advisor is [James Zhang](https://math.washington.edu/people/james-zhang).
 
 You can use the [editor on GitHub](https://github.com/c9ma/c9ma.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
