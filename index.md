@@ -28,24 +28,24 @@ I have been speaking in the algebra seminar administrated by [Robert Won](https:
 
 ### Teaching
 - Mentor
-  - WDRP: Noncommutative Invariant Theory, Autumn 2020
-  - WXML: Generalized Tensors over Algebras, Spring 2020
-  - WDRP: "Vector Spaces" over the Integers, Winter 2019
-  - WXML: Constructing Quantum Theories, Autumn 2019
+  - WDRP: _Noncommutative Invariant Theory_, Autumn 2020
+  - WXML: _Generalized Tensors over Algebras_, Spring 2020
+  - WDRP: _"Vector Spaces" over the Integers_, Winter 2019
+  - WXML: _Constructing Quantum Theories_, Autumn 2019
 
 - Instructor
-  - Math 307B: Introduction to Differential Equations, Summer 2020
-  - Math 308L: Matrix Algebras with Applications, Spring 2020
+  - Math 307B: _Introduction to Differential Equations_, Summer 2020
+  - Math 308L: _Matrix Algebras with Applications_, Spring 2020
 
 - Teaching Assistant
-  - MATH 124CC/CD: Calculus with Analytic Geometry I, Winter 2021
-  - MATH 124AA/AB: Calculus with Analytic Geometry I, Autumn 2020
-  - MATH 124CE/DE: Calculus with Analytic Geometry I, Winter 2020
-  - MATH 124A: Calculus with Analytic Geometry I, Autumn 2019
-  - MATH 402A: Calculus with Analytic Geometry I, Summer 2019
-  - MATH 126AC/AD: Calculus with Analytic Geometry III, Spring 2019
-  - MATH 124CC/CD: Calculus with Analytic Geometry I, Winter 2019
-  - MATH 125DA/DB: Calculus with Analytic Geometry II, Autumn 2018
+  - MATH 124CC/CD: _Calculus with Analytic Geometry I_, Winter 2021
+  - MATH 124AA/AB: _Calculus with Analytic Geometry I_, Autumn 2020
+  - MATH 124CE/DE: _Calculus with Analytic Geometry I_, Winter 2020
+  - MATH 124A: _Calculus with Analytic Geometry I_, Autumn 2019
+  - MATH 402A: _Calculus with Analytic Geometry I_, Summer 2019
+  - MATH 126AC/AD: _Calculus with Analytic Geometry III_, Spring 2019
+  - MATH 124CC/CD: _Calculus with Analytic Geometry I_, Winter 2019
+  - MATH 125DA/DB: _Calculus with Analytic Geometry II_, Autumn 2018
   
 
 
