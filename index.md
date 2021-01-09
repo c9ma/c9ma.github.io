@@ -8,7 +8,7 @@
 
 I am primarily interested in noncommutative invariant theory, in particular, Artin-Schelter Gorensteinness and Artin-Schelter regularity of Poisson enveloping algebras under reflections and bireflections, special cases to the noncommutative Watanabe theorem and the noncommutative Shephard-Todd-Chevalley theorem. My advisor is [James Zhang](https://math.washington.edu/people/james-zhang).
 
-<!---> ### Notes
+<!---> ### Notes <--->
 
 ### Seminars
 
