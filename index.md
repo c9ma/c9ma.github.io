@@ -33,5 +33,5 @@ I have been speaking in the algebra seminar administrated by Robert Won and Jame
 
 ---
 
-##### Email: c9ma [at] uw [dot] edu
-##### Office: Padelford C-430
+###### Email: c9ma [at] uw [dot] edu
+###### Office: Padelford C-430
