@@ -41,8 +41,8 @@ I have been speaking in the algebra seminar administrated by [Robert Won](https:
   - MATH 124CC/CD: _Calculus with Analytic Geometry I_, Winter 2021
   - MATH 124AA/AB: _Calculus with Analytic Geometry I_, Autumn 2020
   - MATH 124CE/DE: _Calculus with Analytic Geometry I_, Winter 2020
-  - MATH 124A: _Calculus with Analytic Geometry I_, Autumn 2019
-  - MATH 402A: _Calculus with Analytic Geometry I_, Summer 2019
+  - MATH 402A: _Introduction to Modern Algebra_, Autumn 2019
+  - MATH 402A: _Introduction to Modern Algebra_, Summer 2019
   - MATH 126AC/AD: _Calculus with Analytic Geometry III_, Spring 2019
   - MATH 124CC/CD: _Calculus with Analytic Geometry I_, Winter 2019
   - MATH 125DA/DB: _Calculus with Analytic Geometry II_, Autumn 2018
