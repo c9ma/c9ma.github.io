@@ -12,18 +12,16 @@ I am primarily interested in noncommutative invariant theory, in particular, Art
 
 I have been speaking in the algebra seminar administrated by [Robert Won](https://faculty.washington.edu/robwon/) and [James Zhang](https://math.washington.edu/people/james-zhang):
 
-- Ore Extensions Series
-  - 10/12/2020:
-  - 10/26/2020:
-  - 11/23/2020:
-  - 12/01/2020:
-  - 12/07/2020:
-  - 01/14/2021:
-  - 01/21/2021:
-  - 02/04/2021:
-  - 02/11/2021:
-- TBD
-  - TBD
+- Ore-Extensions Series
+  - 10/12/2020: Noncommutative Hilbert Basis Theorem
+  - 10/26/2020: The Gelfand-Kirillov Dimension
+  - 11/23/2020: The Gelfand-Kirillov Dimension
+  - 12/01/2020: The Gelfand-Kirillov Dimension and Hilbert Series
+  - 12/07/2020: Noncommutative Hilbert Syzygy Theorem
+  - 01/14/2021: Noncommutative Hilbert Syzygy Theorem
+  - 01/21/2021: Koszul Algebras
+  - 02/04/2021: TBD
+  - 02/11/2021: TBD
 
 ### Projects
 
