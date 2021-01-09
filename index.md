@@ -10,7 +10,7 @@ I am primarily interested in noncommutative invariant theory, in particular, Art
 
 ### Seminars
 
-I have been speaking in the algebra seminar administrated by [Robert Won](https://faculty.washington.edu/robwon/) and [James Zhang](https://math.washington.edu/people/james-zhang):
+I have been speaking in the algebra seminar administrated by [Robert Won](https://faculty.washington.edu/robwon/):
 
 - Ore-Extensions Series
   - 10/12/2020: Noncommutative Hilbert Basis Theorem _(to be uploaded)_
