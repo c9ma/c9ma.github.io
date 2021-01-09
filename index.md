@@ -16,7 +16,7 @@ I have been speaking in the algebra seminar administrated by [Robert Won](https:
   - 10/12/2020: Noncommutative Hilbert Basis Theorem _(to be uploaded)_
   - 10/26/2020: The Gelfand-Kirillov Dimension _(to be uploaded)_
   - 11/23/2020: The Gelfand-Kirillov Dimension _(to be uploaded)_
-  - 12/01/2020: The Gelfand-Kirillov Dimension and Hilbert Series _(to be uploaded)_
+  - 12/01/2020: The Gelfand-Kirillov Dimension and The Hilbert Series _(to be uploaded)_
   - 12/07/2020: Noncommutative Hilbert Syzygy Theorem _(to be uploaded)_
   - 01/14/2021: Noncommutative Hilbert Syzygy Theorem _(to be uploaded)_
   - 01/21/2021: Koszul Algebras _(to be uploaded)_
