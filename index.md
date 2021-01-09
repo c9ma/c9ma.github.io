@@ -13,10 +13,9 @@ I am primarily interested in noncommutative invariant theory, in particular, Art
 ### Seminars
 - Jan 14th: Koszul Algebras
 -
-_ 
-
 
 <br>
+
 ### Projects
 
 ---
