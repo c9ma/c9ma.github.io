@@ -11,12 +11,16 @@ I am primarily interested in noncommutative invariant theory, in particular, Art
 ### Notes
 
 ### Seminars
-- Oct 12, 2020:
-- Oct 26, 2020:
-- Nov 23, 2020:
-- Dec 01, 2020:
-- Dec 07, 2020:
-- Jan 14, 2021:
+
+I have been speaking in the algebra seminar administrated by Robert Won and James Zhang:
+- Ore Extensions
+  - 10/12/2020:
+  - 10/26/2020:
+  - 11/23/2020:
+  - 12/01/2020:
+  - 12/07/2020:
+  - 01/14/2021:
+  - 
 
 ### Projects
 
