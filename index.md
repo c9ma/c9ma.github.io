@@ -24,6 +24,7 @@ I have been speaking in the algebra seminar administrated by [Robert Won](https:
   - 02/11/2021: TBD
 
 ### Projects
+- xfarray: an extension package of xarray to fuzzy relations and conorm semirings
 
 ### Teaching
 - Mentor
